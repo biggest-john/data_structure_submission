@@ -7,8 +7,8 @@ each folder contains its own readme file on how to run the codes.
 here is the break down of the Data Structure representation present in each folder:
     /graphs
         |----/implementation_c
-        |     |--contains the implementation of graphs, BFS and DFS traversals of graphs. 
+        |     |--contains the implementation of graphs, BFS, DFS traversals of graphs and binary search tree
         |----/implementation_java
-        |     |--contains the implementation of stack and queue
+        |     |--contains the implementation of array, stack and queue.
         |----/implementation_python
-        |     |--contains the implementation of 
+        |     |--contains the implementation of AVL, btrees, and b+ trees
